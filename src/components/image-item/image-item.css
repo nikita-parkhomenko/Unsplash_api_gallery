@@ -1,0 +1,10 @@
+.image-item {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.image-item span {
+    margin-top: 15px;
+}
